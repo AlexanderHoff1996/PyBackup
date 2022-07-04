@@ -4,10 +4,10 @@
 
 # HOW TO RUN
 #
-# python path_to_PyBackup.py source_path destination_path mode
+# python path_to_PyBackup.py source_path destination_path mode.
 #
 # Arg 1: Path to the PyBackup.py file.
-# Arg 2: Path to the directory you want to backup (can have subdirectories)
+# Arg 2: Path to the directory you want to backup (can have subdirectories).
 # Arg 3: Where to backup to.
 # Arg 4: Which mode to use. Default is 1 (Copy).
 #
