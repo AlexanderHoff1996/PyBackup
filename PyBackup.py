@@ -1,5 +1,5 @@
 # PyBackup
-# A program used for making backups of files and directories.
+# A tool for making backups of your files.
 
 
 # HOW TO RUN
