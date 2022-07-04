@@ -14,8 +14,11 @@ Paths should be absolute, and inside quotation marks ("").
 
 ## MODES
 
-- Copy (default)    - Files are copied from source to destination, nothing gets deleted. This is the default mode.
-- Clone             - Files are copied from source to destination, files in destination but not source get deleted (BEWARE!).
+### Copy (default)
+Files are copied from source to destination, nothing gets deleted. This is the default mode.
+
+### Clone
+Files are copied from source to destination, files in destination but not source get deleted (BEWARE!).
 
 ## EXAMPLES
 ```
