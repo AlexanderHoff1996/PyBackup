@@ -18,6 +18,7 @@ Copy (default)    - Files are copied from source to destination, nothing gets de
 Clone             - Files are copied from source to destination, files in destination but not source get deleted (BEWARE!).
 
 ## EXAMPLES
-
+```
 python \PyBackup\PyBackup.py "\SourceFolder" "\DestinationFolder" copy
 python \PyBackup\PyBackup.py "\SourceFolder" "\DestinationFolder" clone
+```
