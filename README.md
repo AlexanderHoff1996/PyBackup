@@ -1,6 +1,7 @@
 # PyBackup
 A tool for making backups of your files
 
+
 ## HOW TO RUN
 
 python path_to_PyBackup.py source_path destination_path mode
@@ -12,10 +13,12 @@ Arg 4: Which mode to use. Default is 1 (Copy).
 
 Paths should be absolute, and inside quotation marks ("").
 
+
 ## MODES
 
 Copy (default)    - Files are copied from source to destination, nothing gets deleted. This is the default mode.
 Clone             - Files are copied from source to destination, files in destination but not source get deleted (BEWARE!).
+
 
 ## EXAMPLES
 
