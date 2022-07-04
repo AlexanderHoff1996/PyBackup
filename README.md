@@ -1,5 +1,5 @@
 # PyBackup
-A tool for making backups of your files
+A tool for making backups of your files.
 
 ## HOW TO RUN
 
@@ -10,7 +10,7 @@ python path_to_PyBackup.py source_path destination_path mode
 ### Arguments
 
 1. Path to the PyBackup.py file.
-2. Path to the directory you want to backup (can have subdirectories)
+2. Path to the directory you want to backup (can have subdirectories).
 3. Where to backup to.
 4. Which mode to use. Default is 1 (Copy).
 
