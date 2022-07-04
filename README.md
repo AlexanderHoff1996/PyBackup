@@ -8,7 +8,6 @@ python path_to_PyBackup.py source_path destination_path mode
 ```
 
 ### Arguments
-
 1. Path to the PyBackup.py file.
 2. Path to the directory you want to backup (can have subdirectories).
 3. Where to backup to.
