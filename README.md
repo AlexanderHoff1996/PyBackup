@@ -12,7 +12,7 @@ python path_to_PyBackup.py source_path destination_path mode
 1. Path to the PyBackup.py file.
 2. Path to the directory you want to backup (can have subdirectories).
 3. Where to backup to.
-4. Which mode to use. Default is 1 (Copy).
+4. Which mode to use. Default is Copy.
 
 Paths should be absolute, and inside quotation marks ("").
 
